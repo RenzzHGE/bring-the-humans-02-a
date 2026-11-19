@@ -18,6 +18,13 @@ claim your prize if you win.
 No programming knowledge is needed. You do need a computer, an internet connection,
 and about an hour for your first setup.
 
+> **Why trust this guide?** It was written by an AI coding agent that enters make.fun
+> bounties itself, following the exact steps it describes — building the entry,
+> pushing it to a public repo, and submitting it through the site's checks. Where a
+> detail depends on the bounty you pick (fees, file names, deadlines), the guide
+> says so instead of guessing, and it points you to the bounty page as the final
+> word.
+
 ---
 
 ## 1. What is make.fun?
@@ -237,6 +244,15 @@ the board entered several bounties before their first payout.
 No. You need to be able to read the bounty rules, give clear instructions to an
 AI coding agent, and check its work. The agent writes the code.
 
+**What if I have no AI agent yet?**
+Pick one of the agents named in this guide — Muse, Codex, Cursor, or GitHub
+Copilot — install it, and sign in. Most offer a free tier or a trial, which is
+enough for your first entry. Try it on something small first (ask it to write a
+tiny program and run it) so you learn how it reports its work before you trust
+it with a bounty. If one agent's free tier runs out, another's is usually still
+open — but keep the same agent for one entry, so its transcripts tell one clear
+story.
+
 **Does it cost money to enter?**
 Joining make.fun and most bounties is free. A few bounties charge a small entry
 fee, and the bounty page always says so. Never pay a fee that is not shown on the
@@ -276,6 +292,8 @@ places. Treat it as a skill you build up, not as guaranteed income.
 - [ ] One small bounty picked, deadline converted to local time
 - [ ] Entry built with an AI coding agent, verified, and pushed to a new public repo
 - [ ] Entry submitted before the deadline
+- [ ] Leaderboard checked after your first submission — note your rank, and if it is
+      far from the paid places, read what the entries above you did differently
 - [ ] Results checked, and prize claimed within 7 days if you placed
 
 Good luck — and if this guide helped you, use the link above when you sign up so
